@@ -6,7 +6,7 @@
 
 This is a functional backend for an ecommerce website. It uses MySQL and Sequelize to connect to a database through API endpoints set up on an express server. It enables the creation, reading, updating and deletion of data from the database.
 
-<img src = "./assets/insomniascreenshot.png">
+<img src = "/assets/insomniascreenshot.png" height = 300px>
 
 
 ## Table of Contents
